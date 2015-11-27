@@ -1,0 +1,3 @@
+[submodule "vim-plugin-AnsiEsc"]
+	path = vim-plugin-AnsiEsc
+	url = https://github.com/powerman/vim-plugin-AnsiEsc.git
